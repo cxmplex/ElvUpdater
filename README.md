@@ -12,3 +12,9 @@ ElvUI plugin updater featuring version history and complete download and extract
 * Download any popular ElvUI Addon
 * Config file for ease of use
 * Version history for auto-updating
+
+# External Depedencies
+
+**Archiver:** https://github.com/mholt/archiver
+
+**HTML:** golang.org/x/net/html
