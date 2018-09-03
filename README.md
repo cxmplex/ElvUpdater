@@ -18,3 +18,9 @@ Lightweight ElvUI plugin updater
 **Archiver:** https://github.com/mholt/archiver
 
 **HTML:** https://golang.org/x/net/html
+
+# How to build?
+
+The build is fairly simple. You'll be running all 3 of the files with go run/build. You'll need to run 'go get' for the external dependencies.
+
+If this is complicated, there is also a precompiled release.
