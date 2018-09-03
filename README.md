@@ -17,4 +17,4 @@ ElvUI plugin updater featuring version history and complete download and extract
 
 **Archiver:** https://github.com/mholt/archiver
 
-**HTML:** golang.org/x/net/html
+**HTML:** https://golang.org/x/net/html
