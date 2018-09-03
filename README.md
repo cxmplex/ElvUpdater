@@ -1,6 +1,6 @@
 # ElvUpdater
 
-ElvUI plugin updater featuring version history and complete download and extraction.
+Lightweight ElvUI plugin updater
 
 # Features 
 
