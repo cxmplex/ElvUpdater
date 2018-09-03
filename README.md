@@ -6,7 +6,7 @@ ElvUI plugin updater featuring version history and complete download and extract
 
 [![Status](https://img.shields.io/badge/status-in%20progress-red.svg)](https://github.com/complexitydev/ElvUpdater)
 * Better error handling
-* Add any plugin id
+* Download any plugin id
 
 [![Status](https://img.shields.io/badge/status-completed-green.svg)](https://github.com/complexitydev/ElvUpdater)
 * Download any popular ElvUI Addon
