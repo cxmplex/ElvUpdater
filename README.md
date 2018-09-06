@@ -23,4 +23,4 @@ Lightweight ElvUI plugin updater
 
 The build is fairly simple. You'll be running all 3 of the files with go run/build. You'll need to run 'go get' for the external dependencies.
 
-If this is complicated, there is also a precompiled release.
+If this is complicated, feel free to open up an issue.
